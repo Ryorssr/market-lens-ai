@@ -1,31 +1,42 @@
 #!/usr/bin/env python3
-"""Generate static data files for GitHub Pages. No secrets or external packages."""
+"""Generate static data files for GitHub Pages; preserve last good data."""
 import json
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from start_server import fetch_fx, fetch_news
 
 ROOT = Path(__file__).resolve().parent
-DATA = ROOT / 'data'
-DATA.mkdir(exist_ok=True)
+DATA = ROOT / "data"
+DATA.mkdir(parents=True, exist_ok=True)
 
-def write(name, obj):
+
+def write(name, payload):
     path = DATA / name
-    tmp = path.with_suffix('.tmp')
-    tmp.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    tmp.replace(path)
+    temp = path.with_suffix(".tmp")
+    temp.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temp.replace(path)
 
-if __name__ == '__main__':
-    succeeded = 0
-    for name, fn in [('fx.json', fetch_fx), ('news.json', fetch_news)]:
+
+def main():
+    failed = []
+    for name, fetcher in (("fx.json", fetch_fx), ("news.json", fetch_news)):
         try:
-            payload = fn()
-            payload['status'] = 'ok'
+            payload = fetcher()
+            if not isinstance(payload, dict):
+                raise ValueError("Invalid data format")
+            if name == "fx.json" and (not payload.get("date") or len(payload.get("indicators", [])) != 4):
+                raise ValueError("Incomplete ECB FX data")
+            if name == "news.json" and not payload.get("items"):
+                raise ValueError("No official news items")
+            payload["status"] = "ok"
             write(name, payload)
-            succeeded += 1
-            print(f'Updated {name} at {datetime.now(timezone.utc).isoformat()}')
+            print(f"Updated {name} at {datetime.now(timezone.utc).isoformat()}", flush=True)
         except Exception as exc:
-            # Preserve last known-good data, so failures do not fabricate new prices/news.
-            print(f'FAILED {name}: {exc}')
-    if succeeded == 0:
-        raise SystemExit('No data sources updated. Existing data preserved.')
+            failed.append(name)
+            print(f"FAILED {name}: {type(exc).__name__}: {exc}", file=sys.stderr, flush=True)
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
