@@ -1,32 +1,42 @@
-name: Refresh public market data
+#!/usr/bin/env python3
+"""Generate static data files for GitHub Pages; preserve last good data."""
+import json
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+from start_server import fetch_fx, fetch_news
 
-on:
-  schedule:
-    - cron: '17 * * * *'
-  workflow_dispatch:
+ROOT = Path(__file__).resolve().parent
+DATA = ROOT / "data"
+DATA.mkdir(parents=True, exist_ok=True)
 
-permissions:
-  contents: write
 
-concurrency:
-  group: market-data-refresh
-  cancel-in-progress: false
+def write(name, payload):
+    path = DATA / name
+    temp = path.with_suffix(".tmp")
+    temp.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temp.replace(path)
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - name: Update public data
-        run: python update_data.py
-      - name: Commit changed data
-        run: |
-          git add data/fx.json data/news.json
-          if ! git diff --cached --quiet; then
-            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update public market data'
-            git push
-          fi
+
+def main():
+    failed = []
+    for name, fetcher in (("fx.json", fetch_fx), ("news.json", fetch_news)):
+        try:
+            payload = fetcher()
+            if not isinstance(payload, dict):
+                raise ValueError("Invalid data format")
+            if name == "fx.json" and (not payload.get("date") or len(payload.get("indicators", [])) != 4):
+                raise ValueError("Incomplete ECB FX data")
+            if name == "news.json" and not payload.get("items"):
+                raise ValueError("No official news items")
+            payload["status"] = "ok"
+            write(name, payload)
+            print(f"Updated {name} at {datetime.now(timezone.utc).isoformat()}", flush=True)
+        except Exception as exc:
+            failed.append(name)
+            print(f"FAILED {name}: {type(exc).__name__}: {exc}", file=sys.stderr, flush=True)
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
