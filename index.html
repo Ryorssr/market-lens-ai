@@ -146,4 +146,6 @@ if(location.protocol==="http:"||location.protocol==="https:"){
  document.addEventListener("visibilitychange",()=>{if(!document.hidden)loadNews(true)});
 }
 const now=new Date();$("#greeting").textContent=now.getHours()<11?"おはようございます。":now.getHours()<18?"マーケットを確認しましょう。":"今日の市場を振り返る。";$("#dateLabel").textContent=new Intl.DateTimeFormat("ja-JP",{year:"numeric",month:"long",day:"numeric",weekday:"long"}).format(now);render();
-</script></body></html>
+</script>
+<script src="./treasury.js"></script>
+</body></html>
