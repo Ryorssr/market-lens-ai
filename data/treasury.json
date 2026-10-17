@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-16",
+  "previous_date": "2026-10-15",
+  "retrieved_at": "2026-10-17T23:18:28.931712+00:00",
+  "indicators": [
+    {
+      "id": "us10y",
+      "name": "米10年国債利回り",
+      "value": 5.09,
+      "change": -0.01,
+      "pct": null,
+      "unit": "%",
+      "date": "2026-10-16",
+      "type": "米国10年国債利回り・日次（差は%ポイント）",
+      "source": "U.S. Department of the Treasury",
+      "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+    }
+  ],
+  "status": "ok"
+}

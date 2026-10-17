@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-17 22:46 UTC",
+  "retrieved_at": "2026-10-17 23:18 UTC",
   "items": [
     {
       "id": "06f5c3b3308e77d07f4a",
@@ -9,15 +9,6 @@
       "published": "2026-10-17 05:00 UTC",
       "priority": "normal",
       "topic": "金融政策"
-    },
-    {
-      "id": "e2834c74f4065e96c922",
-      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-16 15:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
     },
     {
       "id": "9b6e93b48f207022f81d",
@@ -38,33 +29,6 @@
       "topic": "経済・金融"
     },
     {
-      "id": "ca688a27006cdc18bac0",
-      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-13 18:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "0d84bbab316fddb29a83",
-      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-09 14:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "8fbb18afd13a46e5b4eb",
-      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money launde",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-08 20:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
       "id": "a37490dc6bf90744a929",
       "title": "Meeting of 9-10 September 2026",
       "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
@@ -79,15 +43,6 @@
       "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
       "source": "European Central Bank",
       "published": "2026-10-08 06:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "08dfdbdaa9ce20cc125a",
-      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-07 18:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
@@ -128,15 +83,6 @@
       "topic": "経済・金融"
     },
     {
-      "id": "1bc4132b3f0326c5bc0e",
-      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-05 20:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
       "id": "f4c67ec69a48b6b67d66",
       "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
@@ -144,33 +90,6 @@
       "published": "2026-10-05 08:00 UTC",
       "priority": "high",
       "topic": "金利・中央銀行"
-    },
-    {
-      "id": "5d4b355ec3292efce1cf",
-      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-02 20:45 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "8f9bf8f9d80dc8af113f",
-      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-02 20:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "b441ff6c63c6936c873f",
-      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-02 15:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
     },
     {
       "id": "2837bd77bb1bb2492714",
@@ -216,112 +135,15 @@
       "published": "2026-09-30 17:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
-    },
-    {
-      "id": "2d126dcc2a0a42d34ad9",
-      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-30 13:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "94f4c2579d3ff5b5c9fa",
-      "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-29 20:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "39a285d2e0f7a36ee108",
-      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-25 20:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "ae574d1347db7223e630",
-      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-24 18:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "4362fad6e26cf1b24b7a",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-24 15:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "5686e3104fc13d1d52b9",
-      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-22 20:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "d16dd968793c9f3199af",
-      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-18 15:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "a7d6226407dcbbf91cb1",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-18 15:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "da3bcbb85f4595d6b859",
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-16 18:00 UTC",
-      "priority": "normal",
-      "topic": "金融政策"
-    },
-    {
-      "id": "7400cab4847e7a3384d1",
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-16 18:00 UTC",
-      "priority": "high",
-      "topic": "景気・金融政策"
-    },
-    {
-      "id": "801d63c5c41391b968dc",
-      "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-11 14:00 UTC",
-      "priority": "normal",
-      "topic": "金融政策"
     }
   ],
   "sources": [
     "Federal Reserve",
     "European Central Bank"
   ],
-  "errors": [],
+  "errors": [
+    "Federal Reserve: HTTP Error 404: Not Found"
+  ],
   "classification": "keyword-only; potential relevance, not confirmed market impact",
   "status": "ok"
 }
