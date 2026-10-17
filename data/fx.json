@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-16",
+  "previous_date": "2026-10-15",
+  "indicators": [
+    {
+      "id": "usdjpy",
+      "name": "ドル／円",
+      "value": 158.020084,
+      "change": 0.043638,
+      "pct": 0.02762,
+      "unit": "円",
+      "type": "ECB参考レート（クロス計算）",
+      "date": "2026-10-16",
+      "source": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml"
+    },
+    {
+      "id": "eurjpy",
+      "name": "ユーロ／円",
+      "value": 177.82,
+      "change": 0.76,
+      "pct": 0.42923,
+      "unit": "円",
+      "type": "ECB参考レート",
+      "date": "2026-10-16",
+      "source": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml"
+    },
+    {
+      "id": "gbpjpy",
+      "name": "ポンド／円",
+      "value": 210.724655,
+      "change": 1.458611,
+      "pct": 0.69701,
+      "unit": "円",
+      "type": "ECB参考レート（クロス計算）",
+      "date": "2026-10-16",
+      "source": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml"
+    },
+    {
+      "id": "audjpy",
+      "name": "豪ドル／円",
+      "value": 109.962278,
+      "change": 0.787287,
+      "pct": 0.72112,
+      "unit": "円",
+      "type": "ECB参考レート（クロス計算）",
+      "date": "2026-10-16",
+      "source": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml"
+    }
+  ],
+  "source": "European Central Bank",
+  "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
+  "retrieved_at": "2026-10-17T22:28:32.179988+00:00",
+  "status": "ok"
+}
