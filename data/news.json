@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-19 05:48 UTC",
+  "retrieved_at": "2026-10-19 07:09 UTC",
   "items": [
+    {
+      "id": "6dad08c6a40d3fdea524",
+      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-19 06:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "06f5c3b3308e77d07f4a",
       "title": "Christine Lagarde: IMFC Statement",
@@ -205,15 +214,6 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
       "source": "European Central Bank",
       "published": "2026-10-01 13:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "c4fef6aa5954e2ec8938",
-      "title": "Christine Lagarde: Interview with La Croix",
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-      "source": "European Central Bank",
-      "published": "2026-09-30 17:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
