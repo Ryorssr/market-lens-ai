@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-21 03:51 UTC",
+  "retrieved_at": "2026-10-21 04:50 UTC",
   "items": [
+    {
+      "id": "9d0c3f7fb6db288c84ff",
+      "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-21 04:15 UTC",
+      "priority": "high",
+      "topic": "金融システム"
+    },
     {
       "id": "0de9b4c1021a7c35a896",
       "title": "Frank Elderson: Interview with Die Presse",
@@ -205,15 +214,6 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
       "source": "European Central Bank",
       "published": "2026-10-02 11:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "948785e80d375de04479",
-      "title": "Isabel Schnabel: Central banks on-chain",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-      "source": "European Central Bank",
-      "published": "2026-10-01 15:30 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
