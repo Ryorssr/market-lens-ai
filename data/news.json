@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-21 07:57 UTC",
+  "retrieved_at": "2026-10-21 08:53 UTC",
   "items": [
+    {
+      "id": "072d53504945317d1e6e",
+      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+      "source": "European Central Bank",
+      "published": "2026-10-21 08:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "9d0c3f7fb6db288c84ff",
       "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
@@ -207,15 +216,6 @@
       "published": "2026-10-02 13:00 UTC",
       "priority": "high",
       "topic": "金利・中央銀行・金融政策"
-    },
-    {
-      "id": "17fa26efe52cb0c248ff",
-      "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-02 11:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
     },
     {
       "id": "2d126dcc2a0a42d34ad9",
