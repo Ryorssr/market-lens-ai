@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-24 05:48 UTC",
+  "retrieved_at": "2026-10-24 07:00 UTC",
   "items": [
+    {
+      "id": "c67befbec2e4f8c2f590",
+      "title": "Piero Cipollone: Interview with Milano Finanza",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-24 06:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "98e7b12542dbe24cb120",
       "title": "ECB Consumer Expectations Survey results – September 2026",
@@ -180,15 +189,6 @@
       "published": "2026-10-05 20:30 UTC",
       "priority": "normal",
       "topic": "経済・金融"
-    },
-    {
-      "id": "f4c67ec69a48b6b67d66",
-      "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-05 08:00 UTC",
-      "priority": "high",
-      "topic": "金利・中央銀行"
     },
     {
       "id": "5d4b355ec3292efce1cf",
