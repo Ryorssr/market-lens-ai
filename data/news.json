@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-26 08:05 UTC",
+  "retrieved_at": "2026-10-26 09:01 UTC",
   "items": [
+    {
+      "id": "e68b407e57b5d5407898",
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-26 09:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "7a20fc27f00392604bfe",
       "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
@@ -167,15 +176,6 @@
       "id": "28500ac6a43a82aa5bb0",
       "title": "Frank Elderson: Effective supervision through timely remediation",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-06 13:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "83020bb1c63ef28c45f7",
-      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
       "source": "European Central Bank",
       "published": "2026-10-06 13:00 UTC",
       "priority": "normal",
