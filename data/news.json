@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-28 17:58 UTC",
+  "retrieved_at": "2026-10-28 19:06 UTC",
   "items": [
+    {
+      "id": "a0c3e1be77e8b5a27f79",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-10-28 18:00 UTC",
+      "priority": "normal",
+      "topic": "金融政策"
+    },
     {
       "id": "d1af0e9e9c8b89b7bcd7",
       "title": "October 2026 euro area bank lending survey",
@@ -272,18 +281,18 @@
       "topic": "経済・金融"
     },
     {
-      "id": "d16dd968793c9f3199af",
-      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+      "id": "a7d6226407dcbbf91cb1",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
       "source": "Federal Reserve",
       "published": "2026-09-18 15:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
     {
-      "id": "a7d6226407dcbbf91cb1",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+      "id": "d16dd968793c9f3199af",
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
       "source": "Federal Reserve",
       "published": "2026-09-18 15:00 UTC",
       "priority": "normal",
@@ -306,15 +315,6 @@
       "published": "2026-09-16 18:00 UTC",
       "priority": "high",
       "topic": "景気・金融政策"
-    },
-    {
-      "id": "801d63c5c41391b968dc",
-      "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-11 14:00 UTC",
-      "priority": "normal",
-      "topic": "金融政策"
     }
   ],
   "sources": [
