@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-29 09:07 UTC",
+  "retrieved_at": "2026-10-29 10:05 UTC",
   "items": [
+    {
+      "id": "e0a79badc41504c72f91",
+      "title": "ECB President Lagarde to step down on 7 February 2027",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-29 10:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "a0c3e1be77e8b5a27f79",
       "title": "Federal Reserve issues FOMC statement",
@@ -178,15 +187,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
       "source": "Federal Reserve",
       "published": "2026-10-07 18:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "a8eb6bf790b72864987d",
-      "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-07 08:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
