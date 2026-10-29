@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-29 13:17 UTC",
+  "retrieved_at": "2026-10-29 15:09 UTC",
   "items": [
+    {
+      "id": "68b91cf9e39d69165ea7",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-29 14:00 UTC",
+      "priority": "high",
+      "topic": "金利・中央銀行・金融政策"
+    },
     {
       "id": "7b7f5adf10a3b9f7d2f1",
       "title": "Monetary policy decisions",
@@ -169,15 +178,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
       "source": "Federal Reserve",
       "published": "2026-10-08 20:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "a37490dc6bf90744a929",
-      "title": "Meeting of 9-10 September 2026",
-      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-08 11:30 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
