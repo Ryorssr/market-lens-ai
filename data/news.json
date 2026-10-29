@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-29 15:09 UTC",
+  "retrieved_at": "2026-10-29 16:09 UTC",
   "items": [
+    {
+      "id": "9eadc21a517cd05484fc",
+      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-29 15:50 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "68b91cf9e39d69165ea7",
       "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
@@ -142,15 +151,6 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
       "source": "European Central Bank",
       "published": "2026-10-14 00:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "2c9018217f537673540d",
-      "title": "Philip R. Lane: The AI opportunity for Europe",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-13 18:30 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
