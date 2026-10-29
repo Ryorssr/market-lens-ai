@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-29 11:58 UTC",
+  "retrieved_at": "2026-10-29 13:17 UTC",
   "items": [
+    {
+      "id": "7b7f5adf10a3b9f7d2f1",
+      "title": "Monetary policy decisions",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-29 13:15 UTC",
+      "priority": "high",
+      "topic": "金利・中央銀行"
+    },
     {
       "id": "e0a79badc41504c72f91",
       "title": "ECB President Lagarde to step down on 7 February 2027",
@@ -169,15 +178,6 @@
       "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
       "source": "European Central Bank",
       "published": "2026-10-08 11:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "69f37d867634f06885b5",
-      "title": "Piero Cipollone: Interview with Corriere della Sera",
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-08 06:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
