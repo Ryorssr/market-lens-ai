@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-29 20:00 UTC",
+  "retrieved_at": "2026-10-29 20:59 UTC",
   "items": [
+    {
+      "id": "41690a4ebc45cddae668",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-10-29 20:30 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "9eadc21a517cd05484fc",
       "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
@@ -12,7 +21,7 @@
     },
     {
       "id": "68b91cf9e39d69165ea7",
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
       "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
       "source": "European Central Bank",
       "published": "2026-10-29 14:00 UTC",
@@ -306,15 +315,6 @@
       "published": "2026-09-16 18:00 UTC",
       "priority": "normal",
       "topic": "金融政策"
-    },
-    {
-      "id": "7400cab4847e7a3384d1",
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-16 18:00 UTC",
-      "priority": "high",
-      "topic": "景気・金融政策"
     }
   ],
   "sources": [
