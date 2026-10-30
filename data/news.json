@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-30 07:17 UTC",
+  "retrieved_at": "2026-10-30 09:06 UTC",
   "items": [
+    {
+      "id": "e7ad213e30394acdb954",
+      "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-30 09:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "41690a4ebc45cddae668",
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
@@ -151,15 +160,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
       "source": "Federal Reserve",
       "published": "2026-10-16 15:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "9b6e93b48f207022f81d",
-      "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-14 00:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
