@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-30 16:03 UTC",
+  "retrieved_at": "2026-10-30 16:59 UTC",
   "items": [
+    {
+      "id": "ebe3120c8047d0837b0d",
+      "title": "Philip R. Lane: AI adoption in Europe",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-30 16:10 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "116cf971800a3bfb4c7a",
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
@@ -142,15 +151,6 @@
       "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
       "source": "European Central Bank",
       "published": "2026-10-20 07:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "6dad08c6a40d3fdea524",
-      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-19 06:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
