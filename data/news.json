@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-10-30 14:14 UTC",
+  "retrieved_at": "2026-10-30 15:11 UTC",
   "items": [
+    {
+      "id": "116cf971800a3bfb4c7a",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+      "source": "European Central Bank",
+      "published": "2026-10-30 14:00 UTC",
+      "priority": "high",
+      "topic": "金利・中央銀行・金融政策"
+    },
     {
       "id": "e7ad213e30394acdb954",
       "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
@@ -144,15 +153,6 @@
       "published": "2026-10-19 06:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
-    },
-    {
-      "id": "06f5c3b3308e77d07f4a",
-      "title": "Christine Lagarde: IMFC Statement",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-17 05:00 UTC",
-      "priority": "normal",
-      "topic": "金融政策"
     },
     {
       "id": "e2834c74f4065e96c922",
