@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-02 07:43 UTC",
+  "retrieved_at": "2026-11-02 09:23 UTC",
   "items": [
+    {
+      "id": "9452bef5142f4608cd0c",
+      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-02 09:30 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "ebe3120c8047d0837b0d",
       "title": "Philip R. Lane: AI adoption in Europe",
@@ -144,15 +153,6 @@
       "published": "2026-10-21 04:15 UTC",
       "priority": "high",
       "topic": "金融システム"
-    },
-    {
-      "id": "0de9b4c1021a7c35a896",
-      "title": "Frank Elderson: Interview with Die Presse",
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-20 07:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
     },
     {
       "id": "e2834c74f4065e96c922",
