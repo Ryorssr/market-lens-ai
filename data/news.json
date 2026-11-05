@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-05 15:14 UTC",
+  "retrieved_at": "2026-11-05 16:23 UTC",
   "items": [
+    {
+      "id": "2993c3bddd49024d0564",
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-05 16:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "b35bb5aa079a54146d7d",
       "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
@@ -306,15 +315,6 @@
       "published": "2026-09-18 15:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
-    },
-    {
-      "id": "da3bcbb85f4595d6b859",
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-16 18:00 UTC",
-      "priority": "normal",
-      "topic": "金融政策"
     }
   ],
   "sources": [
