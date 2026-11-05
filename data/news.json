@@ -1,6 +1,24 @@
 {
-  "retrieved_at": "2026-11-05 06:19 UTC",
+  "retrieved_at": "2026-11-05 08:28 UTC",
   "items": [
+    {
+      "id": "b35bb5aa079a54146d7d",
+      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-05 08:00 UTC",
+      "priority": "high",
+      "topic": "金利・中央銀行"
+    },
+    {
+      "id": "d6f8534e0e4ef3d0e150",
+      "title": "Piero Cipollone: Shaping the future of money",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-05 07:30 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "995a2369a7ff72f62bdb",
       "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
@@ -133,24 +151,6 @@
       "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
       "source": "European Central Bank",
       "published": "2026-10-24 06:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "98e7b12542dbe24cb120",
-      "title": "ECB Consumer Expectations Survey results – September 2026",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-23 08:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "072d53504945317d1e6e",
-      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
-      "source": "European Central Bank",
-      "published": "2026-10-21 08:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
