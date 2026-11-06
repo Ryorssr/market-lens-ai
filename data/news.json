@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-06 08:24 UTC",
+  "retrieved_at": "2026-11-06 10:18 UTC",
   "items": [
+    {
+      "id": "308c455948d25aeb81d7",
+      "title": "ECB publishes consolidated banking data for end-June 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-06 09:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "2993c3bddd49024d0564",
       "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
@@ -151,15 +160,6 @@
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
       "source": "European Central Bank",
       "published": "2026-10-26 05:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "c67befbec2e4f8c2f590",
-      "title": "Piero Cipollone: Interview with Milano Finanza",
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-24 06:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
