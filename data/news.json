@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-07 14:00 UTC",
+  "retrieved_at": "2026-11-07 14:55 UTC",
   "items": [
+    {
+      "id": "b9dcd2ec498515901e2c",
+      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-07 14:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "308c455948d25aeb81d7",
       "title": "ECB publishes consolidated banking data for end-June 2026",
@@ -151,15 +160,6 @@
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
       "source": "European Central Bank",
       "published": "2026-10-26 09:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "7a20fc27f00392604bfe",
-      "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-26 05:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
