@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-09 20:09 UTC",
+  "retrieved_at": "2026-11-09 21:07 UTC",
   "items": [
+    {
+      "id": "2bae0dc9f043ef959612",
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-09 21:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "b9dcd2ec498515901e2c",
       "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
@@ -302,15 +311,6 @@
       "id": "a7d6226407dcbbf91cb1",
       "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-18 15:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "d16dd968793c9f3199af",
-      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
       "source": "Federal Reserve",
       "published": "2026-09-18 15:00 UTC",
       "priority": "normal",
