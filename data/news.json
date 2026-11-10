@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-10 16:05 UTC",
+  "retrieved_at": "2026-11-10 17:08 UTC",
   "items": [
+    {
+      "id": "e3471b85e9068b8b99f1",
+      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-10 16:45 UTC",
+      "priority": "high",
+      "topic": "金利・中央銀行"
+    },
     {
       "id": "461728c10cfa467f403f",
       "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
@@ -162,15 +171,6 @@
       "published": "2026-10-28 18:00 UTC",
       "priority": "normal",
       "topic": "金融政策"
-    },
-    {
-      "id": "d1af0e9e9c8b89b7bcd7",
-      "title": "October 2026 euro area bank lending survey",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-27 00:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
     },
     {
       "id": "e2834c74f4065e96c922",
