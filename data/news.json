@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-12 15:12 UTC",
+  "retrieved_at": "2026-11-12 16:20 UTC",
   "items": [
+    {
+      "id": "e589a1e1c99ea10e62c2",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-12 16:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "e3471b85e9068b8b99f1",
       "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
@@ -304,15 +313,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
       "source": "Federal Reserve",
       "published": "2026-09-22 20:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "a7d6226407dcbbf91cb1",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-18 15:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     }
