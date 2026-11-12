@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-12 18:04 UTC",
+  "retrieved_at": "2026-11-12 19:14 UTC",
   "items": [
+    {
+      "id": "1ee6867cdbb6f3c3818c",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-12 18:30 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "87a784bdd6110f056713",
       "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
@@ -304,15 +313,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
       "source": "Federal Reserve",
       "published": "2026-09-24 18:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "4362fad6e26cf1b24b7a",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-24 15:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     }
