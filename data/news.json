@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-12 16:20 UTC",
+  "retrieved_at": "2026-11-12 18:04 UTC",
   "items": [
+    {
+      "id": "87a784bdd6110f056713",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-12 17:45 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "e589a1e1c99ea10e62c2",
       "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
@@ -304,15 +313,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
       "source": "Federal Reserve",
       "published": "2026-09-24 15:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "5686e3104fc13d1d52b9",
-      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-22 20:30 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     }
