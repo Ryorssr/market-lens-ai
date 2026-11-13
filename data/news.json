@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-13 21:06 UTC",
+  "retrieved_at": "2026-11-13 21:59 UTC",
   "items": [
+    {
+      "id": "537d1229e28dcb2912c5",
+      "title": "Agencies extend comment period for proposed third-party risk management guidance",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-13 21:15 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "b2851de93965f784a9ec",
       "title": "Isabel Schnabel: Made in Europe",
@@ -304,15 +313,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
       "source": "Federal Reserve",
       "published": "2026-09-25 20:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "ae574d1347db7223e630",
-      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-24 18:30 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     }
