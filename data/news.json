@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-16 06:46 UTC",
+  "retrieved_at": "2026-11-16 09:53 UTC",
   "items": [
+    {
+      "id": "e583d81e56c0577758ef",
+      "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-16 08:30 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "537d1229e28dcb2912c5",
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
@@ -189,15 +198,6 @@
       "published": "2026-10-29 14:00 UTC",
       "priority": "high",
       "topic": "金利・中央銀行・金融政策"
-    },
-    {
-      "id": "7b7f5adf10a3b9f7d2f1",
-      "title": "Monetary policy decisions",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-29 13:15 UTC",
-      "priority": "high",
-      "topic": "金利・中央銀行"
     },
     {
       "id": "a0c3e1be77e8b5a27f79",
