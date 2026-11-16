@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-16 11:37 UTC",
+  "retrieved_at": "2026-11-16 15:25 UTC",
   "items": [
+    {
+      "id": "9ffc52ce7f21136fde69",
+      "title": "Frank Elderson: Smart supervision for small banks",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-16 13:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "e583d81e56c0577758ef",
       "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
@@ -189,15 +198,6 @@
       "published": "2026-10-29 15:50 UTC",
       "priority": "normal",
       "topic": "経済・金融"
-    },
-    {
-      "id": "68b91cf9e39d69165ea7",
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-      "source": "European Central Bank",
-      "published": "2026-10-29 14:00 UTC",
-      "priority": "high",
-      "topic": "金利・中央銀行・金融政策"
     },
     {
       "id": "a0c3e1be77e8b5a27f79",
