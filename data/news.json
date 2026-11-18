@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-18 14:09 UTC",
+  "retrieved_at": "2026-11-18 22:02 UTC",
   "items": [
+    {
+      "id": "c0c4ef66e0d9307c0568",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-18 19:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "cae0ebe96330058d23f1",
       "title": "Boris Vujčić: Financial Stability Review - November 2026",
@@ -304,15 +313,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
       "source": "Federal Reserve",
       "published": "2026-09-29 20:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "39a285d2e0f7a36ee108",
-      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-25 20:30 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     }
