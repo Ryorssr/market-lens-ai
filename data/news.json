@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-20 13:02 UTC",
+  "retrieved_at": "2026-11-20 21:13 UTC",
   "items": [
+    {
+      "id": "4b9813abbbbcba462a28",
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-20 15:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "e6c33934d167226da4b7",
       "title": "Christine Lagarde: Acting in time",
@@ -304,15 +313,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
       "source": "Federal Reserve",
       "published": "2026-10-02 15:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "2d126dcc2a0a42d34ad9",
-      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-09-30 13:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     }
