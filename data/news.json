@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-20 21:13 UTC",
+  "retrieved_at": "2026-11-21 02:26 UTC",
   "items": [
+    {
+      "id": "6ffb3b6c56d4e0fb0741",
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-20 21:15 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "4b9813abbbbcba462a28",
       "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
@@ -304,15 +313,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
       "source": "Federal Reserve",
       "published": "2026-10-02 20:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "b441ff6c63c6936c873f",
-      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-02 15:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     }
