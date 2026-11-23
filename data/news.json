@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-23 02:52 UTC",
+  "retrieved_at": "2026-11-23 12:59 UTC",
   "items": [
+    {
+      "id": "fcdf24928d9144fa7218",
+      "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-23 10:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "6ffb3b6c56d4e0fb0741",
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -216,15 +225,6 @@
       "published": "2026-11-04 00:00 UTC",
       "priority": "normal",
       "topic": "景気"
-    },
-    {
-      "id": "9452bef5142f4608cd0c",
-      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-      "source": "European Central Bank",
-      "published": "2026-11-02 09:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
     },
     {
       "id": "41690a4ebc45cddae668",
