@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-24 00:58 UTC",
+  "retrieved_at": "2026-11-24 11:02 UTC",
   "items": [
+    {
+      "id": "58bc7856b7cca52e51e9",
+      "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-24 11:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "9f91174a0be70691ec4c",
       "title": "Philip R. Lane: Climate change and monetary policy",
@@ -216,15 +225,6 @@
       "published": "2026-11-05 08:00 UTC",
       "priority": "high",
       "topic": "金利・中央銀行"
-    },
-    {
-      "id": "d6f8534e0e4ef3d0e150",
-      "title": "Piero Cipollone: Shaping the future of money",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
-      "source": "European Central Bank",
-      "published": "2026-11-05 07:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
     },
     {
       "id": "41690a4ebc45cddae668",
