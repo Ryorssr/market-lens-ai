@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-23 12:59 UTC",
+  "retrieved_at": "2026-11-24 00:58 UTC",
   "items": [
+    {
+      "id": "9f91174a0be70691ec4c",
+      "title": "Philip R. Lane: Climate change and monetary policy",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+      "source": "European Central Bank",
+      "published": "2026-11-23 14:30 UTC",
+      "priority": "high",
+      "topic": "金利・中央銀行"
+    },
     {
       "id": "fcdf24928d9144fa7218",
       "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
@@ -216,15 +225,6 @@
       "published": "2026-11-05 07:30 UTC",
       "priority": "normal",
       "topic": "経済・金融"
-    },
-    {
-      "id": "995a2369a7ff72f62bdb",
-      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-      "source": "European Central Bank",
-      "published": "2026-11-04 00:00 UTC",
-      "priority": "normal",
-      "topic": "景気"
     },
     {
       "id": "41690a4ebc45cddae668",
