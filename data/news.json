@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-24 11:02 UTC",
+  "retrieved_at": "2026-11-24 21:19 UTC",
   "items": [
+    {
+      "id": "ee53adbaa022cb629b98",
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-24 19:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "58bc7856b7cca52e51e9",
       "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
@@ -304,15 +313,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
       "source": "Federal Reserve",
       "published": "2026-10-02 20:45 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "8f9bf8f9d80dc8af113f",
-      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-02 20:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     }
