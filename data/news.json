@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-25 04:55 UTC",
+  "retrieved_at": "2026-11-25 15:42 UTC",
   "items": [
+    {
+      "id": "2a538393bceaa99ba40f",
+      "title": "Card payments edge past cash in shops; euro area consumers want both",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-25 10:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "ee53adbaa022cb629b98",
       "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
@@ -225,15 +234,6 @@
       "published": "2026-11-05 16:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
-    },
-    {
-      "id": "b35bb5aa079a54146d7d",
-      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "source": "European Central Bank",
-      "published": "2026-11-05 08:00 UTC",
-      "priority": "high",
-      "topic": "金利・中央銀行"
     },
     {
       "id": "41690a4ebc45cddae668",
