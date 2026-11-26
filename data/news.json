@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-26 09:37 UTC",
+  "retrieved_at": "2026-11-26 19:41 UTC",
   "items": [
+    {
+      "id": "00009a421e4e16476c6f",
+      "title": "Meeting of 28-29 October 2026",
+      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-26 12:30 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "ebcc18ee02d95aa3ed7f",
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
@@ -232,15 +241,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
       "source": "Federal Reserve",
       "published": "2026-11-09 21:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "b9dcd2ec498515901e2c",
-      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-      "source": "European Central Bank",
-      "published": "2026-11-07 14:00 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
