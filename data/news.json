@@ -1,6 +1,33 @@
 {
-  "retrieved_at": "2026-11-25 15:42 UTC",
+  "retrieved_at": "2026-11-26 00:28 UTC",
   "items": [
+    {
+      "id": "ebcc18ee02d95aa3ed7f",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-25 20:00 UTC",
+      "priority": "high",
+      "topic": "為替"
+    },
+    {
+      "id": "657383e9620afc1b422f",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+      "source": "Federal Reserve",
+      "published": "2026-11-25 20:00 UTC",
+      "priority": "high",
+      "topic": "為替"
+    },
+    {
+      "id": "c25d2e83149d7230d9cd",
+      "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-25 17:30 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "2a538393bceaa99ba40f",
       "title": "Card payments edge past cash in shops; euro area consumers want both",
@@ -218,15 +245,6 @@
       "topic": "経済・金融"
     },
     {
-      "id": "308c455948d25aeb81d7",
-      "title": "ECB publishes consolidated banking data for end-June 2026",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
-      "source": "European Central Bank",
-      "published": "2026-11-06 09:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
       "id": "2993c3bddd49024d0564",
       "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
@@ -295,24 +313,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
       "source": "Federal Reserve",
       "published": "2026-10-07 18:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "1bc4132b3f0326c5bc0e",
-      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-05 20:30 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "5d4b355ec3292efce1cf",
-      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-      "source": "Federal Reserve",
-      "published": "2026-10-02 20:45 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     }
