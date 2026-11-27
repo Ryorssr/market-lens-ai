@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-27 02:54 UTC",
+  "retrieved_at": "2026-11-27 12:36 UTC",
   "items": [
+    {
+      "id": "6a89018ebd552bf52014",
+      "title": "ECB Consumer Expectations Survey results – October 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-27 09:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "00009a421e4e16476c6f",
       "title": "Meeting of 28-29 October 2026",
@@ -225,15 +234,6 @@
       "published": "2026-11-10 16:45 UTC",
       "priority": "high",
       "topic": "金利・中央銀行"
-    },
-    {
-      "id": "461728c10cfa467f403f",
-      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-      "source": "European Central Bank",
-      "published": "2026-11-10 14:00 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
     },
     {
       "id": "2bae0dc9f043ef959612",
