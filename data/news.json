@@ -1,6 +1,15 @@
 {
-  "retrieved_at": "2026-11-28 03:57 UTC",
+  "retrieved_at": "2026-11-28 13:09 UTC",
   "items": [
+    {
+      "id": "f2e3018ce6bf1751a2f3",
+      "title": "Boris Vujčić: Interview with Kurier",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+      "source": "European Central Bank",
+      "published": "2026-11-28 08:00 UTC",
+      "priority": "normal",
+      "topic": "経済・金融"
+    },
     {
       "id": "52093f454fd05226ac00",
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
@@ -196,15 +205,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
       "source": "Federal Reserve",
       "published": "2026-11-13 21:15 UTC",
-      "priority": "normal",
-      "topic": "経済・金融"
-    },
-    {
-      "id": "b2851de93965f784a9ec",
-      "title": "Isabel Schnabel: Made in Europe",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-      "source": "European Central Bank",
-      "published": "2026-11-13 07:20 UTC",
       "priority": "normal",
       "topic": "経済・金融"
     },
